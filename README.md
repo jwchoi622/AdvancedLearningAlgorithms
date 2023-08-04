@@ -9,3 +9,5 @@ https://www.coursera.org/learn/advanced-learning-algorithms
 8/1 - Labs on derivatives and Backprop. It was a good review of derivatives and the end of week 2 content. 
 
 8/2 - 8/3 - Worked on Assignment for Week 2
+
+8/4 - Preparing the data for building a model, testing the model and selecting the best one 
