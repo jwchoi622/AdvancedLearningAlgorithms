@@ -17,3 +17,6 @@ https://www.coursera.org/learn/advanced-learning-algorithms
 8/6 - Assignment for Week 3
 
 8/8 - 8/9 - Redoing Assignment 3
+
+8/10 - Decision Trees, Information Gain and Regression Trees
+
