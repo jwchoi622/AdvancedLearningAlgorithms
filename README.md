@@ -21,3 +21,5 @@ https://www.coursera.org/learn/advanced-learning-algorithms
 8/10 - Decision Trees, Information Gain and Regression Trees
 
 8/11 - Using pandas to one-hot encode a dataset. Using scikit-learn to implement Random Forest, Decision Tree and XGBoost 
+
+8/13 Assignment 4
