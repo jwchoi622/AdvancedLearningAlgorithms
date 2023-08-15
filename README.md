@@ -22,4 +22,6 @@ https://www.coursera.org/learn/advanced-learning-algorithms
 
 8/11 - Using pandas to one-hot encode a dataset. Using scikit-learn to implement Random Forest, Decision Tree and XGBoost 
 
-8/13 Assignment 4
+8/13 - Assignment 4
+
+8/15 - Finished Assignment 4 on entropy and information gain. Kept getting an assertion error for the compute_information_gain function. Nan values instead of 0.0 for information gain kept giving me an error. The NaN values were coming from the compute_entropy function. I wasn't able to fix that function but just made the compute_information_gain function return 0.0 when a NaN value for entropy was being used. 
